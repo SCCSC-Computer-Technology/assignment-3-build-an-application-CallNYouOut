@@ -17,7 +17,7 @@ namespace CGaffney206Lab3
             InitializeComponent();
         }
 
-
+        // This is something new
 
         private void btnQuit_Click(object sender, EventArgs e)
         {

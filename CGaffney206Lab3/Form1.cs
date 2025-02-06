@@ -19,6 +19,8 @@ namespace CGaffney206Lab3
 
         // This is something new
 
+        // Making another change
+
         private void btnQuit_Click(object sender, EventArgs e)
         {
             this.Close();
